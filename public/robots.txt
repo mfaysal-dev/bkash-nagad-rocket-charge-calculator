@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bkash-nagad-rocket-charge-calculator.vercel.app/sitemap.xml
